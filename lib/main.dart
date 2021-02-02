@@ -13,7 +13,7 @@ class _PerguntaAppState extends State<PerguntaApp> {
       'respostas': [
         {'texto': 'Preto', 'pontuacao': 10},
         {'texto': 'Vermelho', 'pontuacao': 5},
-        {'texto': 'Verde', 'pontuacao': 3},
+        {'texto': 'Verde', 'pontuacao': 3},        
         {'texto': 'Branco', 'pontuacao': 1},
       ],
     },
@@ -23,7 +23,7 @@ class _PerguntaAppState extends State<PerguntaApp> {
         {'texto': 'Coelho', 'pontuacao': 10},
         {'texto': 'Cobra', 'pontuacao': 5},
         {'texto': 'Elefante', 'pontuacao': 3},
-        {'texto': 'Leão', 'pontuacao': 1},
+        {'texto': 'Gato', 'pontuacao': 1},
       ],
     },
     {
